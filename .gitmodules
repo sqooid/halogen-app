@@ -1,0 +1,3 @@
+[submodule "halogen"]
+	path = halogen
+	url = git@github.com:sqooid/halogen.git
